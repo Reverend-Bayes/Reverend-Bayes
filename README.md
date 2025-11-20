@@ -4,8 +4,6 @@
 
 ### You’ve got a problem? Yo, I’ll solve it.
 
-</div>
-
 ---
 
 ## Tech Stack
@@ -17,7 +15,7 @@
 **Analytics + Tooling:** DuckDB, Altair, Power BI, DataRobot, H2O  
 
 <details>
-  <summary>▼ Click to expand full stack</summary>
+  <summary>Click to expand full stack</summary>
 
   <br>
 
@@ -53,7 +51,7 @@ corporate data, infrastructure, or scale. Experienced across nonprofit, automoti
 and research domains.
 
 <details>
-  <summary>▼ Click to expand full bio</summary>
+  <summary>Click to expand full bio</summary>
 
   <br>
 
@@ -68,8 +66,6 @@ and research domains.
   GPT-4 (and GPT-3.5 when affordable token cost is a priority), semantic search, vector databases,
   custom pipelines, and real-time analytics layers using DuckDB and Altair…
 
-  <!-- keep adding your remaining paragraphs here, same pattern -->
-
   I code in Python, Java, C++, JavaScript, and TypeScript. I work with SQL, Oracle, SQL Server,
   and NoSQL databases, and routinely handle structured data in JSON. I develop UIs and full-stack
   apps using HTML, CSS, and modern frontend frameworks. My work spans classical ML, NLP, and
@@ -79,7 +75,4 @@ and research domains.
   and Microsoft tools like Azure Speech for richer insight delivery. I also advise on AI product
   strategy, focusing on real-world applications in business.
 
-  🔧 **Note:** Much of my previous work lives in private or corporate repos. I’m now building
-  out my public portfolio to reflect those capabilities and contributions.
-
-</details>
+  🔧 **Note:** Much of my previous work lives in private or corporate repos. I’m now build
